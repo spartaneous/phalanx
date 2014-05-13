@@ -1,9 +1,9 @@
 {
-  "name": "test",
+  "name": "Phalanx",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
-  "keywords": [],
+  "description": "A Loosely Coupled CMS with Strong API and Replaceable Back-end/Front-end",
+  "keywords": ["cms", "sailsjs", "content management", "engine", "content management engine"],
   "dependencies": {
     "sails": "~0.10.0-rc5",
     "sails-disk": "~0.10.0",
@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vagrant/test.git"
+    "url": "git://github.com/spartaneous/phalanx.git"
   },
-  "author": "vagrant",
-  "license": ""
+  "author": "Spartaneous",
+  "license": "MIT"
 }
