@@ -17,7 +17,9 @@ Next we'll want to get the actual project (of course you can clone your own fork
 1. git clone git@github.com:spartaneous/phalanx.git
 2. cd phalanx
 
-Now we'll want to actually access the application.
+Starting & Stopping The Application
+-----------------------------------
 
-1. vagrant up
-2. Go to http://localhost:1337/ in our favorite browser.
+To start the application use vagrant up. To stop it use vagrant halt.
+
+Once the application is started it can then be accessed in your favorite browser at: http://localhost:1337/
